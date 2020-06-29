@@ -1,0 +1,15 @@
+{
+  "name": "cancel-workflow-action",
+  "description": "Candel the current workflow",
+  "version": "0.0.1",
+  "author": "",
+  "license": "ISC",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@actions/core": "^1.2.4",
+    "@actions/github": "^4.0.0"
+  }
+}
